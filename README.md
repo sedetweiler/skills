@@ -1,6 +1,6 @@
 # Scott's AI Skills
 
-Hi, I'm [Scott Detweiler](https://github.com/sedetweiler). This is where I share the skills I create to make working with AI agents a little more useful, thoughtful, and efficient.
+This is where I share the skills I create to make working with AI agents a little more useful, thoughtful, and efficient.
 
 These skills grow out of everyday work: noticing something an agent keeps getting wrong, finding a better approach, and writing it down so the next session starts a little wiser. I'm sharing them here in the hope that they help you, too.
 
